@@ -15,3 +15,4 @@
 - [x] 11/4(월) [나누어 떨어지는 숫자 배열](https://www.notion.so/taegeon/11-4-693d7d6fbb064418bff2a2f62322ff55)
 - [x] 11/4(월) [두 정수 사이의 합](https://www.notion.so/taegeon/11-4-52b9fc96b7024819904a362f3741b77a)
 - [x] 11/5(화) [내 마음대로 정렬하기](https://www.notion.so/taegeon/11-5-a96f1954c7af47caa91674f1ee7c5d2e)
+- [x] 11/7(목) [문자열 내 p와 y의 개수](https://www.notion.so/taegeon/11-7-p-y-cc3c67c3b0d34e66ac3a0b25febe3a3b)
