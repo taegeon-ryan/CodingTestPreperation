@@ -18,3 +18,4 @@
 - [x] 11/7(목) [문자열 내 p와 y의 개수](https://www.notion.so/taegeon/11-7-p-y-cc3c67c3b0d34e66ac3a0b25febe3a3b)
 - [x] 11/8(금) [문자열 내림차순으로 배치하기](https://www.notion.so/taegeon/11-8-06df504b8eed4fc78fea54f9bcb355e8)
 - [x] 11/9(토) [문자열 다루기 기본](https://www.notion.so/taegeon/11-9-23c3d01f027a4233a358bd6478eda56a)
+- [x] 11/10(일) [서울에서 김서방 찾기](https://www.notion.so/taegeon/11-10-3b7d273106e44a07bdefb6514b11857a)
