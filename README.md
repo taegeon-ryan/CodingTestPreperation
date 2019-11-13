@@ -19,3 +19,6 @@
 - [x] 11/8(금) [문자열 내림차순으로 배치하기](https://www.notion.so/taegeon/11-8-06df504b8eed4fc78fea54f9bcb355e8)
 - [x] 11/9(토) [문자열 다루기 기본](https://www.notion.so/taegeon/11-9-23c3d01f027a4233a358bd6478eda56a)
 - [x] 11/10(일) [서울에서 김서방 찾기](https://www.notion.so/taegeon/11-10-3b7d273106e44a07bdefb6514b11857a)
+- [x] 11/11(월) [소수 찾기](https://www.notion.so/taegeon/11-11-a412411d2ac042e38461a98617e1f66f)
+- [x] 11/12(화) [수박수박수박수박수박수?](https://www.notion.so/taegeon/11-12-4b00255fb8eb47be805d3e35fbac7ddc)
+- [x] 11/13(수) [문자열을 정수로 바꾸기](https://www.notion.so/taegeon/11-13-8b6f623b4784493baab8c3353665d454)
