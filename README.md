@@ -23,3 +23,4 @@
 - [x] 11/12(화) [수박수박수박수박수박수?](https://www.notion.so/taegeon/11-12-4b00255fb8eb47be805d3e35fbac7ddc)
 - [x] 11/13(수) [문자열을 정수로 바꾸기](https://www.notion.so/taegeon/11-13-8b6f623b4784493baab8c3353665d454)
 - [x] 11/14(목) [시저 암호](https://www.notion.so/taegeon/11-14-b57c9c47dafc4a8f9e6b81fd230f5862)
+- [x] 11/15(금) [약수의 합](https://www.notion.so/taegeon/11-15-09f71eeb471344a9b1eaf56adb961bce)
